@@ -11,7 +11,7 @@
 - ⚡ Passionate about **electrical engineering**
 - 🐍 Currently learning **Python** and building my first projects
 - 🔧 Also learning **SolidWorks** for mechanical design
-- 🌍 Languages: Arabic (native) · French (fluent) · English (improving) · German (beginner)
+- 🌍 Languages: Arabic (native) · French (improving) · English (fluent) · German (beginner)
 - 📍 Tunisia
 
 ---
@@ -59,7 +59,7 @@ Feel free to reach out — I'm always open to learning from others and collabora
 - ⚡ Passionnée par le **génie électrique**
 - 🐍 En train d'apprendre **Python** et de construire mes premiers projets
 - 🔧 J'apprends aussi **SolidWorks** pour la conception mécanique
-- 🌍 Langues : Arabe (natif) · Français (courant) · Anglais (en amélioration) · Allemand (débutante)
+- 🌍 Langues : Arabe (natif) · Français (en amélioration) · Anglais (courant) · Allemand (débutante)
 - 📍 Tunisie
 
 ---
